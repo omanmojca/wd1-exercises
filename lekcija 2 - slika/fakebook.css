@@ -1,0 +1,42 @@
+.btn{
+  border: 1px solid black;
+  color:#B097DD;
+  padding: 15px 32px;
+  word-spacing: 0.3em;
+  background-color: green;
+  display: inline-block;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p.btn{
+  cursor: pointer;
+}
+
+h1{
+  font-family: Verdana;
+}
+
+.krneki{
+  font-size: 20px;
+  color:#0902CC;
+}
+
+.image{
+  border: 1px solid red;
+}
+
+.image:hover{
+  border: 2px solid black;
+}
+
+.bubu{
+  font-family: Arial;
+  font-size: 12px;
+}
+
+.bubu strong{
+  text-decoration: underline;
+  font-size: 1.2em;
+}
