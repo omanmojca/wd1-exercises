@@ -1,0 +1,39 @@
+#mu{
+  border-collapse: separate;
+  border-spacing: 35px 0px;
+  margin-left: -35px;
+  margin-right: -35px;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
+}
+
+.bum{
+  width: 320px;
+  display:flex;
+}
+
+ thead tr th span{
+   float:right;
+ }
+
+ #wrapper {
+   width: 800px;
+   margin: auto;
+ }
+
+ #wrapper .container {
+   max-width: 100%;
+   display: block;
+ }
+
+.okno{
+  height: 100px;
+}
+
+#kr{
+  width: 400px;
+  padding: 0;
+  margin: 0;
+}
